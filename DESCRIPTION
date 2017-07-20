@@ -1,0 +1,13 @@
+Package: singleCellRNASeqMouseEngelTcell
+Maintainer: Chiaowen Joyce Hsiao <joyce.hsiao1@gmail.com>
+Author: Chiaowen Joyce Hsiao <joyce.hsiao1@gmail.com>
+Version: 0.99.0
+License: Artistic-2.0
+Title: single-cell RNA-seq data of Mouse Nature Killer T cells
+Description: Engel, I., Seumois, G., Chavez, L., Samaniego-Castruita, D., White, B., Chawla, A., et al. (2016). Innate-like functions of natural killer T cell subsets result from highly divergent gene programs. Nature Immunology, 17(6), 728–739. http://doi.org/10.1038/ni.3437LazyData: yes
+Depends:
+    R (>= 2.10), Biobase (>= 2.26.0)
+biocViews: ExperimentData
+NeedsCompilation: no
+RoxygenNote: 6.0.1
+Encoding: UTF-8
